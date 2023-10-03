@@ -1,0 +1,1 @@
+parameters are placeholders for values that a function expects to receive when it is called

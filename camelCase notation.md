@@ -1,0 +1,1 @@
+Sometimes variable names must have more than one word. When this happens the camelCase convention establishes that from all the words that make up the variable name, the first word must be entirely lowercase, there won't be any spaces between the next words and the first letter of each following words will be uppercase.

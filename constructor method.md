@@ -1,0 +1,1 @@
+a constructor method in JavaScript is a function that is defined within the body of a [[class definition]], and  it is there where I can set parameters  which can be received when a new instance of that class is created.

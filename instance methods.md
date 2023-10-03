@@ -1,0 +1,1 @@
+instance methods are comprised of a simple [[method definition]]. They can be considered the default method in a class. What sets them apart is the fact that them can be invoked on instances of a class as well as can be called by [[methods]] within the body of the [[class definition]] given these come after the specific instance method being called.
