@@ -1,0 +1,1 @@
+a property in JavaScript consists of a key and a corresponding value. These key-value pairs allow the association of data and functions with an object

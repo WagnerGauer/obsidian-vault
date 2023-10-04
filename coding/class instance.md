@@ -1,0 +1,1 @@
+it is an object that was created from a class and can inherit [[methods]] and [[properties]] from that [[class]] it was created from.

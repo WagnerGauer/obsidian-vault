@@ -11,15 +11,24 @@
             "id": "0c4996343ba00e51",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "f8183a0ccc21e96d",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "static methods.md",
+                "file": "coding/class.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "static methods.md",
+                "file": "coding/class.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "static methods.md",
+                "file": "coding/class.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "static methods.md"
+                "file": "coding/class.md"
               }
             }
           }
@@ -146,22 +155,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0c4996343ba00e51",
+  "active": "f8183a0ccc21e96d",
   "lastOpenFiles": [
-    "setter methods.md",
-    "static methods.md",
+    "coding/getInitialProps method.md",
+    "coding/framework.md",
+    "coding/class definition.md",
+    "coding/class methods.md",
+    "coding/class instance.md",
+    "coding/static methods.md",
+    "coding/setter methods.md",
+    "coding/class.md",
+    "coding/Classes in JavaScript.md",
+    "coding/methods.md",
+    "coding/constructor method.md",
+    "getInitialProps method.md",
+    "framework.md",
+    "coding",
+    "coding/objects.md",
+    "coding/properties.md",
     "static method.md",
-    "types of methods which can be present in a class definition.md",
-    "instance methods.md",
-    "method definition.md",
-    "class definition.md",
-    "methods.md",
-    "function body.md",
-    "constructor method.md",
-    "Classes in JavaScript.md",
-    "parameter list.md",
-    "parameters.md",
-    "PascalCase notation.md",
-    "camelCase notation.md"
+    "coding/instance methods.md",
+    "coding/method definition.md",
+    "coding/function body.md",
+    "coding/parameter list.md",
+    "coding/parameters.md",
+    "coding/PascalCase notation.md",
+    "coding/camelCase notation.md"
   ]
 }

@@ -1,5 +1,4 @@
-the syntax of static methods consist of the keyword static followed by the [[method definition]]. What sets these methods apart is that they can only be called by the class itself and not an instance of the class[[setter methods]]
-
+the syntax of static methods consist of the keyword static followed by the [[method definition]]. What sets these methods apart is that they can only be called by the class itself and not a [[class instance]].
 
 class MyClass {
   static classProperty = "I am a class property";

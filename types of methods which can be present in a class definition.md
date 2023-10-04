@@ -1,2 +1,0 @@
-The most common method that can be defined in a [[class definition]] is the [[constructor method]]. 
-Other kinds of methods which can be defined in a [[class definition]] include [[instance methods]], [[static methods]], [[getter methods]], and [[setter methods]]. 

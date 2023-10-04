@@ -1,0 +1,1 @@
+A framework in development is a collection of libraries and tools that a person or community developed which helps in the creation and maintenance of applications by providing a structured and consistent way of developing software products.

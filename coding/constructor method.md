@@ -1,0 +1,2 @@
+a constructor method in JavaScript is a function that is defined within the body of a [[class definition]], and  it is there where I can set parameters  which can be received when a new instance of that class is created. 
+Also what is special about the constructor method is that I can call any other method that was defined within the same class independent of its order.
