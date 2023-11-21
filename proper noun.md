@@ -1,0 +1,1 @@
+A proper noun differently from a [[common noun]] is precise and it is always capitalized
